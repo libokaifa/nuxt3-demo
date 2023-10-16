@@ -1,10 +1,8 @@
-<<<<<<< HEAD
+
 # nuxt3-demo
 nuxt的学习demo
-=======
-# Nuxt 3 Minimal Starter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+
 
 ## Setup
 
@@ -75,6 +73,3 @@ yarn preview
 # bun
 bun run preview
 ```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
->>>>>>> e85c50f (NUXT DEMO)
